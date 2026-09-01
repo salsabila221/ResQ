@@ -21,5 +21,12 @@ ResQ hadir sebagai langkah nyata untuk melindungi perempuan dari ancaman kekeras
 
 Perempuan dengan rentang usia di atas 15 tahun
 
+**MOCK UP KASAR SEDERHANA**
+
+https://www.figma.com/design/9QvsSIEOMGAnl3GMfpFxX5/ResQ?node-id=27-1253&t=TMkCIcju4KK82vDy-1
+
+**SKEMA DATABASE**
+
+<img width="1082" height="952" alt="Untitled Diagram (2)" src="https://github.com/user-attachments/assets/698e84b6-0a92-418b-8a40-228457ea8fb6" />
 
 
